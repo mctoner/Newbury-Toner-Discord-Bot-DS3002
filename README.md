@@ -23,3 +23,5 @@ Our bot is hosted in EC2 under the instance id i-0adce608a3110e3cb and the Key N
 To join our server and interact with our bot, follow this link: 
 
 Screenshots of sample bot usage can be found below.
+
+
