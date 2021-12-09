@@ -18,6 +18,8 @@ There is also added help functionality:
 - Type !help command for more info on a command.
 - You can also type !help category for more info on a category.
 
-Screenshots of sample bot usage can be found below.
+Our bot is hosted in EC2 under the instance id i-0adce608a3110e3cb and the Key Name "MauraandAbbyBot' so that we can interact with our cool bot at all time & it will be running indefinitely!
 
 To join our server and interact with our bot, follow this link: 
+
+Screenshots of sample bot usage can be found below.
