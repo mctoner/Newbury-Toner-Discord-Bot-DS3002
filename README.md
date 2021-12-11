@@ -2,7 +2,7 @@
 
 ## Discord Bot Final Project DS 3002
 
-We have created a discord bot using the Discord API and the external Recipe-Food-Nutrition Rapid API (found here: https://rapidapi.com/spoonacular/api/recipe-food-nutrition/ , images from the Web Search Rapid API: https://rapidapi.com/contextualwebsearch/api/web-search/). The bot takes in various inputs and returns nutritional information for food/dishes, a randomized meal plan to meet caloric needs, or a unit conversion for a various ingredient. Our bot is called 'MandABot and has the following commands:
+We have created a discord bot using the Discord API and the external Recipe-Food-Nutrition Rapid API (found here: https://rapidapi.com/spoonacular/api/recipe-food-nutrition/ , and images from the Web Search Rapid API: https://rapidapi.com/contextualwebsearch/api/web-search/). The bot takes in various inputs and returns nutritional information for food/dishes, a randomized meal plan to meet caloric needs, or a unit conversion for a various ingredient. Our bot is called 'MandABot and has the following commands:
 
 Note: our special character is !, and all commands must be prefaced by an exclamation point.
 
