@@ -11,8 +11,7 @@ Note: our special character is !, and all commands must be prefaced by an exclam
 3) dish: enter !dish followed by a dish name to see the calories,fat,carbs and sugar in the dish. If the dish has multiple words, whitespace is replaced with an underscore. For example, chicken parmesan should be in the format '!dish Chicken_Parmesan'
 4) mealplan: enter mealplan! and this command will generate a random day of eating for you based on a 2000 calorie goal. The output will list every recommended dish and the recommended number of servings for each dish. (These meal plans are ridiculous and we do NOT advise actually eating like this :) )
 5) conversion: type '!conversion' with four parameters. ingredient=ingredient you want to convert,starting_unit=unit you start with (ie Liters,L,mL,grams,cups, etc. ),amount_to_convert=number of cups,grams,etc. you wish to convert ,final_unit=the measurement you wish to convert to.. ie cups, etc. For example, typing "!conversion    water mL 1000 Liter" returns "1000 ml water translates to 1 liter."
-6) joke: type !joke and the bot will generate a random, food related joke for you! No arguments taken.
-7) funfact: type !funfact and the bot will return a fun fact about food. No arguments or inputs needed.
+6) funfact: type !funfact and the bot will return a fun fact about food. No arguments or inputs needed.
 
 There is also added help functionality:
 - Type !help command for more info on a command.
