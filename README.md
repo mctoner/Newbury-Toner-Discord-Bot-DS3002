@@ -31,26 +31,37 @@ General help command (ehlp for speific functions are shown with each function)
 ![Screen Shot 2021-12-10 at 9 09 30 PM](https://user-images.githubusercontent.com/57843918/145660368-e40c8946-c8af-4416-a8d3-b90f4e5211d4.png)
 
 
-dish function
+### dish function
 
 ![Screen Shot 2021-12-10 at 9 10 57 PM](https://user-images.githubusercontent.com/57843918/145660396-cf3314d6-2952-4291-81cd-7f56a9b6a03f.png)
 
 ![Screen Shot 2021-12-10 at 9 10 13 PM](https://user-images.githubusercontent.com/57843918/145660384-1cfdc703-f3df-4c11-a6e9-cb309d759e19.png)
 
-mealplan function
+### mealplan function
 ![Screen Shot 2021-12-10 at 9 11 39 PM](https://user-images.githubusercontent.com/57843918/145660408-3377e770-08fd-40ad-845c-a3e2ebdde540.png)
 
 ![Screen Shot 2021-12-10 at 9 11 55 PM](https://user-images.githubusercontent.com/57843918/145660418-65c14230-0311-41f3-8000-1bc53d29687d.png)
 
-Conversion function
+### Conversion function
 ![Screen Shot 2021-12-10 at 9 14 28 PM](https://user-images.githubusercontent.com/57843918/145660479-dd9ac811-2698-4f63-bb61-4724ceabaf58.png)
 
 ![Screen Shot 2021-12-10 at 9 14 43 PM](https://user-images.githubusercontent.com/57843918/145660484-05ebe136-c266-4cf9-8126-1106f02eaef5.png)
 
-Fun fact Function
+### Fun fact Function
 ![Screen Shot 2021-12-10 at 9 15 10 PM](https://user-images.githubusercontent.com/57843918/145660497-5f0eb9b2-bbda-49a1-b743-d916609d1342.png)
 
 ![Screen Shot 2021-12-10 at 9 15 25 PM](https://user-images.githubusercontent.com/57843918/145660502-2187bf0d-41c8-4885-a97f-bb6d306be170.png)
 
 
-Examples of informative errors
+### Examples of informative errors
+![Screen Shot 2021-12-11 at 7 26 45 PM](https://user-images.githubusercontent.com/57843918/145695960-29af4309-e7ab-4db8-b865-b022a24b836b.png)
+
+![Screen Shot 2021-12-11 at 7 28 01 PM](https://user-images.githubusercontent.com/57843918/145695976-b0633949-5398-4887-921d-cc9b945ceb63.png)
+
+
+
+
+
+
+
+
