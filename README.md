@@ -23,7 +23,7 @@ To join our server and interact with our bot, follow this link:   https://discor
 
 
 ## Screenshots of sample bot usage can be found below.
-Documentation via !docs command
+### Documentation via !docs command
 
 ![Screen Shot 2021-12-10 at 9 08 56 PM](https://user-images.githubusercontent.com/57843918/145660348-85464fb6-1691-4bb6-8489-0e5428eddab7.png)
 
@@ -53,3 +53,4 @@ Fun fact Function
 ![Screen Shot 2021-12-10 at 9 15 25 PM](https://user-images.githubusercontent.com/57843918/145660502-2187bf0d-41c8-4885-a97f-bb6d306be170.png)
 
 
+Examples of informative errors
