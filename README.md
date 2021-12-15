@@ -19,7 +19,8 @@ There is also added help functionality:
 
 Our bot is hosted in EC2 under the instance id i-0adce608a3110e3cb and the Key Name "MauraandAbbyBot' so that we can interact with our cool bot at all time & it will be running indefinitely!
 
-To join our server and interact with our bot, follow this link:   https://discord.gg/GvP2ye9x
+To join our server and interact with our bot, follow this link:  https://discord.gg/9wgNQKfK
+(this second one is expired, changed 12/14) https://discord.gg/GvP2ye9x
 
 
 ## Screenshots of sample bot usage can be found below.
